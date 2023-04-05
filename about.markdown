@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Abdelrahman Elmeniawy, an Egyptian Software Engineer based in Berlin, Germany.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find some of my links here:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-elmeniawy-548266108/)
+- [Github](https://www.linkedin.com/in/abdelrahman-elmeniawy-548266108/)
