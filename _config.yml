@@ -1,14 +1,27 @@
 title: Abdelrahman Elmeniawy
-email: ameniawy18@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website! I'm Abdelrahman Elmeniawy a Software
   Engineer based in Berlin, Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.aelmeniawy.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ameniawy
-github_username: ameniawy
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+author:
+  name: Abdelrahman Elmeniawy
+  email: ameniawy18@gmail.com
+
+minima:
+  skin: classic
+  social_links:
+    - { platform: github, user_url: "https://github.com/ameniawy" }
+    - {
+        platform: linkedin,
+        user_url: "https://www.linkedin.com/in/abdelrahman-elmeniawy-548266108/",
+      }
